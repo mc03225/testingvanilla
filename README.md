@@ -1,2 +1,0 @@
-# testingvanilla
-Created with CodeSandbox
